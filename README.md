@@ -1,11 +1,11 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)]()
 <h1 align="center">Hi 👋, I'm Jyot Dhamelia</h1>
-<h2 align="center">I'm a passionate software developer with a love for creating innovative solutions.</h2>
+<h2 align="center">I'm a passionate Web developer with a love for creating innovative solutions.</h2>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 # 💫 About Me:
 [![](https://visitcount.itsvg.in/api?id=JyotDhamelia&icon=0&color=0)]()<br><br>
-🔭 I’m currently working on Internship<br>🌱 I’m currently learning JS, NodeJS, Python<br>💬 Ask me about JS, Graphic Design<br>📫 How to reach me jyotdhamelia@gmail.com<br>⚡ Fun fact "The only way to do great work is to love what you do." <br>  - Steve Jobs <br><br>
+🔭 I’m currently working on MySelf<br>🌱 I’m currently learning JS<br>💬 Ask me about JS, Graphic Design<br>📫 How to reach me jyotdhamelia@gmail.com<br>⚡ Fun fact "The only way to do great work is to love what you do." <br>  - Steve Jobs <br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jyotdhamelia/) 
