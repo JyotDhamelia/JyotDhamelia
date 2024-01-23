@@ -1,6 +1,6 @@
 
 ## 🌐 Socials:
-![My Skills](https://skillicons.dev/icons?i=linkedin)[(https://www.linkedin.com/in/jyotdhamelia)]
+[![My Skills](https://skillicons.dev/icons?i=linkedin)(https://www.linkedin.com/in/jyotdhamelia)]
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=codepen)](https://codepen.io/JYOT-DHAMELIA)
 [![My Skills](https://skillicons.dev/icons?i=gmail)] -->
