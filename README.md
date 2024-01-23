@@ -4,12 +4,11 @@
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=codepen)](https://codepen.io/JYOT-DHAMELIA)
 [![My Skills](https://skillicons.dev/icons?i=gmail)] -->
-
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jyotdhamelia) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/JYOT-DHAMELIA)  -->
 
 # 💻 Tech Stack:
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,php)
-![My Skills](https://skillicons.dev/icons?i=npm,vite,figma,vscode,postman,wordpress)
+![My Skills](https://skillicons.dev/icons?i=git,vite,figma,vscode,postman,wordpress)
 ![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui,js,react,nodejs,express,mongodb,mysql,firebase,pug)
 ![My Skills](https://skillicons.dev/icons?i=github,vercel,netlify)
 
