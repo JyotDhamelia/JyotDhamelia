@@ -6,10 +6,6 @@
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jyotdhamelia)
 [![My Skills](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=jyotdhamelia@gmail.com)
 
-<!-- [![My Skills](https://skillicons.dev/icons?i=codepen)](https://codepen.io/JYOT-DHAMELIA)
-[![My Skills](https://skillicons.dev/icons?i=gmail)] -->
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jyotdhamelia) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/JYOT-DHAMELIA)  -->
-
 ### 💻 Tech Stack:
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,php)
 ![My Skills](https://skillicons.dev/icons?i=,git,vite,figma,vscode,postman,wordpress)
