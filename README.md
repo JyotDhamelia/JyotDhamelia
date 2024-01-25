@@ -4,7 +4,7 @@
 
 ### 🌐 Socials:
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jyotdhamelia)
-[![My Skills](https://skillicons.dev/icons?i=linkedin)]((https://mail.google.com/mail/?view=cm&fs=1&to=someone@example.com&su=SUBJECT&body=BODY&bcc=someone.else@example.com))
+[![My Skills](https://skillicons.dev/icons?i=gmail)]((https://mail.google.com/mail/?view=cm&fs=1&to=jyotdhamelia@gmail.com))
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=codepen)](https://codepen.io/JYOT-DHAMELIA)
 [![My Skills](https://skillicons.dev/icons?i=gmail)] -->
