@@ -25,4 +25,4 @@
 ### 🔝 Top Contributed Repository:
 ![](https://github-contributor-stats.vercel.app/api?username=JyotDhamelia&limit=5&theme=dark&hide_border=true&combine_all_yearly_contributions=true)
 
-[![](https://visitcount.itsvg.in/api?id=JyotDhamelia&icon=5&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=JyotDhamelia&icon=5&color=1)](https://visitcount.itsvg.in)
