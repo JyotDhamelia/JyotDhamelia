@@ -1,4 +1,5 @@
 <img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=F7F7F7&center=true&random=false&width=1000&lines=Hey+There!+%F0%9F%91%8B;I'm+Jyot+Dhamelia!"/>
+<hr/>
 
 [![](https://visitcount.itsvg.in/api?id=JyotDhamelia&icon=5&color=1)](https://visitcount.itsvg.in)
 
@@ -23,4 +24,5 @@
 ### 🔝 Top Contributed Repository:
 ![](https://github-contributor-stats.vercel.app/api?username=JyotDhamelia&limit=5&theme=dark&hide_border=true&combine_all_yearly_contributions=true)
 
+<hr/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&random=false&width=1000&lines=Thanks+for+visiting!"/>
