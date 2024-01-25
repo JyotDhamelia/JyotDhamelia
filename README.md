@@ -13,12 +13,12 @@
 ![My Skills](https://skillicons.dev/icons?i=github,vercel,netlify)
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JyotDhamelia&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=JyotDhamelia&theme=dark&hide_border=true&count_private=true&show_icons=true&rank_icon=github&border_radius=10)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JyotDhamelia&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JyotDhamelia&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
 
 ### 🔝 Top Contributed Repository:
 ![](https://github-contributor-stats.vercel.app/api?username=JyotDhamelia&limit=5&theme=dark&hide_border=true&combine_all_yearly_contributions=true)
