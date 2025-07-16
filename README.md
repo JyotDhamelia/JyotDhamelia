@@ -1,7 +1,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=36BCF7FF&center=true&random=false&width=1000&lines=Hey+There!+%F0%9F%91%8B;I'm+Jyot+Dhamelia!"/>
 <hr/>
 
-![profile](/Banner.png)
+![profile](/GithubBanner.jpg)
 <hr/>
 
 [![](https://visitcount.itsvg.in/api?id=JyotDhamelia&icon=5&color=1)](https://visitcount.itsvg.in)
