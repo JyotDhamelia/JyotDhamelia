@@ -15,8 +15,8 @@
 
 ### 💻 Tech Stack:
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,java,markdown)
-![My Skills](https://skillicons.dev/icons?i=,git,vite,figma,vscode,postman,wordpress)
-![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui,js,react,nodejs,express,mongodb,mysql,firebase,pug)
+![My Skills](https://skillicons.dev/icons?i=,git,npm,pnpm,yarn,vite,figma,vscode,postman,wordpress)
+![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui,js,ts,react,nextjs,nodejs,express,mongodb,mysql,firebase,pug)
 ![My Skills](https://skillicons.dev/icons?i=github,vercel,netlify)
 
 ### 📊 GitHub Stats:
