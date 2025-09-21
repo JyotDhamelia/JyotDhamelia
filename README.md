@@ -16,7 +16,7 @@
 ![My Techs](https://skills.syvixor.com/api/icons?i=html,css3,bootstrap,tailwindcss,materialui,javascript,typescript,reactjs,nextjs,nodejs,expressjs,mysql,mongodb,firebase)
 
 ### 🛠 Tools Stack:
-![My Tools](https://skills.syvixor.com/api/icons?i=git,npm,pnpm,yarn,vite) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![My Tools](https://skills.syvixor.com/api/icons?i=postman,swagger,thunderclient) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![My Tools](https://skills.syvixor.com/api/icons?i=github,vercel,netlify,render,digitalocean)
+![My Tools](https://skills.syvixor.com/api/icons?i=git,npm,pnpm,yarn,vite) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![My Tools](https://skills.syvixor.com/api/icons?i=postman,swagger,thunderclient) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![My Tools](https://skills.syvixor.com/api/icons?i=github,vercel,netlify,render,railway,digitalocean)
 
 
 ### 📊 GitHub Stats:
