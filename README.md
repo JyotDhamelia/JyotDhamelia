@@ -14,7 +14,7 @@
 [![My Skills](https://skills.syvixor.com/api/icons?i=devto)](https://dev.to/jyot_dhamelia)
 
 ### 💻 Tech Stack:
-![My Skills](https://skillicons.dev/icons?i=c,cpp,java,markdown)
+![My Skills](https://skills.syvixor.com/api/icons?i=c,java,markdown)
 ![My Skills](https://skillicons.dev/icons?i=,git,npm,pnpm,yarn,vite,figma,vscode,postman,wordpress)
 ![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui,js,ts,react,nextjs,nodejs,express,mongodb,mysql,firebase,pug)
 ![My Skills](https://skills.syvixor.com/api/icons?i=github,vercel,netlify,render,digitalocean)
