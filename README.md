@@ -10,8 +10,8 @@
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jyotdhamelia)
 [![My Skills](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=jyotdhamelia@gmail.com)
 [![My Skills](https://skillicons.dev/icons?i=codepen)](https://codepen.io/JYOT-DHAMELIA)
-[![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/JyotDhamelia)
-[![My Skills](https://skillicons.dev/icons?i=devto)](https://dev.to/jyot_dhamelia)
+[![My Skills](https://skills.syvixor.com/api/icons?i=x)](https://twitter.com/JyotDhamelia)
+[![My Skills](https://skills.syvixor.com/api/icons?i=devto)](https://dev.to/jyot_dhamelia)
 
 ### 💻 Tech Stack:
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,java,markdown)
