@@ -10,14 +10,18 @@
 [![My Socials](https://skillicons.dev/icons?i=codepen)](https://codepen.io/JYOT-DHAMELIA)
 [![My Socials](https://skills.syvixor.com/api/icons?i=x)](https://twitter.com/JyotDhamelia)
 [![My Socials](https://skills.syvixor.com/api/icons?i=devto)](https://dev.to/jyot_dhamelia)
+[![My Socials](https://skills.syvixor.com/api/icons?i=bento)](https://bento.me/jyot)
 
 ### 💻 Tech Stack:
-![My Techs](https://skills.syvixor.com/api/icons?i=c,java,markdown) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![My Techs](https://skills.syvixor.com/api/icons?i=pug,ejs) <br/>
+![My Techs](https://skills.syvixor.com/api/icons?i=c,java,markdown) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+![My Techs](https://skills.syvixor.com/api/icons?i=pug,ejs) <br/>
 ![My Techs](https://skills.syvixor.com/api/icons?i=html,css3,bootstrap,tailwindcss,materialui,javascript,typescript,reactjs,nextjs,nodejs,expressjs,mysql,mongodb,firebase)
 
 ### 🛠 Tools Stack:
-![My Tools](https://skills.syvixor.com/api/icons?i=git,npm,pnpm,yarn,vite) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![My Tools](https://skills.syvixor.com/api/icons?i=postman,swagger,thunderclient) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![My Tools](https://skills.syvixor.com/api/icons?i=github,vercel,netlify,render,railway,digitalocean)
-
+![My Tools](https://skills.syvixor.com/api/icons?i=visualstudiocode,cursor,trae,windsurf) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+![My Tools](https://skills.syvixor.com/api/icons?i=git,npm,pnpm,yarn,vite) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+![My Tools](https://skills.syvixor.com/api/icons?i=postman,swagger,thunderclient) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+![My Tools](https://skills.syvixor.com/api/icons?i=github,vercel,netlify,render,railway,digitalocean)
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JyotDhamelia&theme=dark&hide_border=true&count_private=true&show_icons=true&rank_icon=github&border_radius=10)<br/>
