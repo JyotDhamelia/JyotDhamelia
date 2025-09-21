@@ -4,20 +4,20 @@
 ![profile](/GithubBanner.jpg)
 <hr/>
 
-[![](https://visitcount.itsvg.in/api?id=JyotDhamelia&icon=5&color=1)](https://visitcount.itsvg.in)
-
 ### 🌐 Socials:
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jyotdhamelia)
-[![My Skills](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=jyotdhamelia@gmail.com)
-[![My Skills](https://skillicons.dev/icons?i=codepen)](https://codepen.io/JYOT-DHAMELIA)
-[![My Skills](https://skills.syvixor.com/api/icons?i=x)](https://twitter.com/JyotDhamelia)
-[![My Skills](https://skills.syvixor.com/api/icons?i=devto)](https://dev.to/jyot_dhamelia)
+[![My Socials](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jyotdhamelia)
+[![My Socials](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=jyotdhamelia@gmail.com)
+[![My Socials](https://skillicons.dev/icons?i=codepen)](https://codepen.io/JYOT-DHAMELIA)
+[![My Socials](https://skills.syvixor.com/api/icons?i=x)](https://twitter.com/JyotDhamelia)
+[![My Socials](https://skills.syvixor.com/api/icons?i=devto)](https://dev.to/jyot_dhamelia)
 
 ### 💻 Tech Stack:
-![My Skills](https://skills.syvixor.com/api/icons?i=c,java,markdown)
-![My Skills](https://skillicons.dev/icons?i=,git,npm,pnpm,yarn,vite,figma,vscode,postman,wordpress)
-![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui,js,ts,react,nextjs,nodejs,express,mongodb,mysql,firebase,pug)
-![My Skills](https://skills.syvixor.com/api/icons?i=github,vercel,netlify,render,digitalocean)
+![My Techs](https://skills.syvixor.com/api/icons?i=c,java,markdown) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![My Techs](https://skills.syvixor.com/api/icons?i=pug,ejs) <br/>
+![My Techs](https://skills.syvixor.com/api/icons?i=html,css3,bootstrap,tailwindcss,materialui,javascript,typescript,reactjs,nextjs,nodejs,expressjs,mysql,mongodb,firebase)
+
+### 🛠 Tools Stack:
+![My Tools](https://skills.syvixor.com/api/icons?i=git,npm,pnpm,yarn,vite) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![My Tools](https://skills.syvixor.com/api/icons?i=github,vercel,netlify,render,digitalocean)
+
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JyotDhamelia&theme=dark&hide_border=true&count_private=true&show_icons=true&rank_icon=github&border_radius=10)<br/>
