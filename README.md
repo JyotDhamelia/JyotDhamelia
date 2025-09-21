@@ -15,7 +15,7 @@
 ### 💻 Tech Stack:
 ![My Techs](https://skills.syvixor.com/api/icons?i=c,java,markdown) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 ![My Techs](https://skills.syvixor.com/api/icons?i=pug,ejs) <br/>
-![My Techs](https://skills.syvixor.com/api/icons?i=html,css3,bootstrap,tailwindcss,materialui,javascript,typescript,reactjs,nextjs,nodejs,expressjs,mysql,mongodb,firebase)
+![My Techs](https://skills.syvixor.com/api/icons?i=html,css3,bootstrap,tailwindcss,materialui,javascript,typescript,reactjs,redux,nextjs,nodejs,expressjs,mysql,mongodb,firebase)
 
 ### 🛠 Tools Stack:
 ![My Tools](https://skills.syvixor.com/api/icons?i=git,npm,pnpm,yarn,vite) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
