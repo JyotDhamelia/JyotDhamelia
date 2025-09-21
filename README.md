@@ -17,7 +17,7 @@
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,java,markdown)
 ![My Skills](https://skillicons.dev/icons?i=,git,npm,pnpm,yarn,vite,figma,vscode,postman,wordpress)
 ![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui,js,ts,react,nextjs,nodejs,express,mongodb,mysql,firebase,pug)
-![My Skills](https://skillicons.dev/icons?i=github,vercel,netlify)
+![My Skills](https://skills.syvixor.com/api/icons?i=github,vercel,netlify,render,digitalocean)
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JyotDhamelia&theme=dark&hide_border=true&count_private=true&show_icons=true&rank_icon=github&border_radius=10)<br/>
