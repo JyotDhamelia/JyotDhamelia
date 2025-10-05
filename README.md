@@ -31,14 +31,14 @@
 
 <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=JyotDhamelia&theme=transparent&hide_border=true&count_private=true&show_icons=true&rank_icon=github&border_radius=10&text_color=ffffff&icon_color=ffffff&title_color=ffffff"
+    srcset="https://github-readme-stats.vercel.app/api?username=JyotDhamelia&show_icons=true&rank_icon=github&border_radius=10&count_private=true&bg_color=1a1b27&text_color=ffffff&icon_color=bb9af7&title_color=7aa2f7&border_color=7aa2f7"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=JyotDhamelia&theme=transparent&hide_border=true&count_private=true&show_icons=true&rank_icon=github&border_radius=10&text_color=000000&icon_color=000000&title_color=000000"
+    srcset="https://github-readme-stats.vercel.app/api?username=JyotDhamelia&show_icons=true&rank_icon=github&border_radius=10&count_private=true&bg_color=ffffff&text_color=000000&icon_color=0366d6&title_color=0366d6&border_color=e1e4e8"
     media="(prefers-color-scheme: light)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=JyotDhamelia&theme=transparent&hide_border=true&count_private=true&show_icons=true&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JyotDhamelia&show_icons=true&rank_icon=github&border_radius=10&count_private=true" alt="GitHub Stats" />
 </picture>
 
 ### ✍️ Random Dev Quote:
