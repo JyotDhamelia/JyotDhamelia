@@ -5,24 +5,24 @@
 <hr/>
 
 ### 🌐 Socials:
-[![My Socials](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jyotdhamelia)
-[![My Socials](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=jyotdhamelia@gmail.com)
-[![My Socials](https://skillicons.dev/icons?i=codepen)](https://codepen.io/JYOT-DHAMELIA)
-[![My Socials](https://skills.syvixor.com/api/icons?i=x)](https://twitter.com/JyotDhamelia)
-[![My Socials](https://skills.syvixor.com/api/icons?i=devto)](https://dev.to/jyot_dhamelia)
-[![My Socials](https://skills.syvixor.com/api/icons?i=bento)](https://bento.me/jyot)
+[![My Socials](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/jyotdhamelia)
+[![My Socials](https://skillicons.dev/icons?i=gmail&theme=dark)](https://mail.google.com/mail/?view=cm&fs=1&to=jyotdhamelia@gmail.com)
+[![My Socials](https://skillicons.dev/icons?i=codepen&theme=dark)](https://codepen.io/JYOT-DHAMELIA)
+[![My Socials](https://skills.syvixor.com/api/icons?i=x&theme=dark)](https://twitter.com/JyotDhamelia)
+[![My Socials](https://skills.syvixor.com/api/icons?i=devto&theme=dark)](https://dev.to/jyot_dhamelia)
+[![My Socials](https://skills.syvixor.com/api/icons?i=bento&theme=dark)](https://bento.me/jyot)
 
 ### 💻 Tech Stack:
-![My Techs](https://skills.syvixor.com/api/icons?i=c,java,markdown) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-![My Techs](https://skills.syvixor.com/api/icons?i=pug,ejs) <br/>
-![My Techs](https://skills.syvixor.com/api/icons?i=html,css3,bootstrap,tailwindcss,materialui,javascript,typescript,reactjs,redux,nextjs,nodejs,expressjs,mysql,mongodb,firebase)
+![My Techs](https://skills.syvixor.com/api/icons?i=c,java,markdown&theme=dark) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+![My Techs](https://skills.syvixor.com/api/icons?i=pug,ejs&theme=dark) <br/>
+![My Techs](https://skills.syvixor.com/api/icons?i=html,css3,bootstrap,tailwindcss,materialui,javascript,typescript,reactjs,redux,nextjs,nodejs,expressjs,mysql,mongodb,firebase&theme=dark)
 
 ### 🛠 Tools Stack:
-![My Tools](https://skills.syvixor.com/api/icons?i=git,npm,pnpm,yarn,vite) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-![My Tools](https://skills.syvixor.com/api/icons?i=jest,postman,swagger,thunderclient) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/>
-![My Tools](https://skills.syvixor.com/api/icons?i=github,bitbucket,vercel,netlify,render,railway,digitalocean) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/>
-![My Tools](https://skills.syvixor.com/api/icons?i=visualstudiocode,cursor,trae,windsurf) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-![My Tools](https://skills.syvixor.com/api/icons?i=chatgpt,googlegemini,claudeai,bolt,perplexity) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+![My Tools](https://skills.syvixor.com/api/icons?i=git,npm,pnpm,yarn,vite&theme=dark) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+![My Tools](https://skills.syvixor.com/api/icons?i=jest,postman,swagger,thunderclient&theme=dark) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/>
+![My Tools](https://skills.syvixor.com/api/icons?i=github,bitbucket,vercel,netlify,render,railway,digitalocean&theme=dark) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/>
+![My Tools](https://skills.syvixor.com/api/icons?i=visualstudiocode,cursor,trae,windsurf&theme=dark) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+![My Tools](https://skills.syvixor.com/api/icons?i=chatgpt,googlegemini,claudeai,bolt,perplexity&theme=dark) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JyotDhamelia&theme=tokyonight&hide_border=true&count_private=true&show_icons=true&rank_icon=github&border_radius=10) <br/>
