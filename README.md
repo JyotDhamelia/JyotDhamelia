@@ -25,15 +25,15 @@
 ![My Tools](https://skills.syvixor.com/api/icons?i=chatgpt,googlegemini,claudeai,bolt,perplexity) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JyotDhamelia&theme=dark&hide_border=true&count_private=true&show_icons=true&rank_icon=github&border_radius=10) <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=JyotDhamelia&theme=dark&hide_border=true) <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JyotDhamelia&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=donut-vertical)
+![](https://github-readme-stats.vercel.app/api?username=JyotDhamelia&theme=nord&hide_border=true&count_private=true&show_icons=true&rank_icon=github&border_radius=10) <br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=JyotDhamelia&theme=nord&hide_border=true) <br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JyotDhamelia&theme=nord&hide_border=true&include_all_commits=false&count_private=false&layout=donut-vertical)
 
 ### ✍️ Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=nord)
 
 ### 🔝 Top Contributed Repository:
-![](https://github-contributor-stats.vercel.app/api?username=JyotDhamelia&limit=5&theme=dark&hide_border=true&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=JyotDhamelia&limit=5&theme=nord&hide_border=true&combine_all_yearly_contributions=true)
 
 <hr/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&random=false&width=1000&lines=Thanks+for+visiting!"/>
