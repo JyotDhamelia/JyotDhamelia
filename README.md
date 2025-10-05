@@ -29,6 +29,18 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JyotDhamelia&theme=tokyonight&hide_border=true) <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JyotDhamelia&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=donut-vertical)
 
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=JyotDhamelia&theme=transparent&hide_border=true&count_private=true&show_icons=true&rank_icon=github&border_radius=10&text_color=ffffff&icon_color=ffffff&title_color=ffffff"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=JyotDhamelia&theme=transparent&hide_border=true&count_private=true&show_icons=true&rank_icon=github&border_radius=10&text_color=000000&icon_color=000000&title_color=000000"
+    media="(prefers-color-scheme: light)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=JyotDhamelia&theme=transparent&hide_border=true&count_private=true&show_icons=true&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+</picture>
+
 ### ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
 
